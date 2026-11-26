@@ -44,11 +44,12 @@ Tarjuman reads the English subtitles of your game the moment they appear and sho
 | | |
 |---|---|
 | 🗣️ **Natural Arabic** | AI translation into clear Modern Standard Arabic (فصحى) that understands street slang like *yo*, *no cap* or *bet*, and translates the meaning, not word by word. |
-| 🎨 **Looks like the game** | Speaker names keep the game's colors, speech is white and replies are grey, with the same punctuation. |
+| 🎨 **Looks like the game** | Speaker names keep the exact colors from the game, speech is white and replies are grey. When two people talk at once, each one gets their own line. |
 | 🎮 **PlayStation 5 / 4** | Stream your console inside Tarjuman at up to 1080p and 60 fps, and play with your controller as usual. |
 | 🟩 **Xbox & PC** | Pick any game window (Xbox cloud or remote play, or a PC game) and the subtitles appear on top. |
 | 📺 **On your TV** | Tarjuman TV shows the Arabic subtitles on your Android TV or Google TV, over the game. |
 | 🧠 **Learns as you play** | Every game keeps its own translation pack. Fix a line once and it stays fixed. |
+| 🌐 **English or Arabic** | Use Tarjuman in English or in Arabic (العربية). Pick it when you install, or change it any time in Settings. |
 | 🔒 **Private** | Everything runs on your PC. Not a single line is sent to the internet. |
 
 <div align="center">
